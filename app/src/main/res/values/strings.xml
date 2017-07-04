@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="habit">Habit</string>
+    <string name="type">Type</string>
+    <string name="hint_habit_name">Habit name</string>
+    <string name="save_habit_button">Save Habit</string>
+    <string name="show_db_button">show Db</string>
+    <string name="spinner_1">Good habit</string>
+    <string name="spinner_2">Bad habit</string>
+</resources>
